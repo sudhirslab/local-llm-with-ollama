@@ -1,3 +1,7 @@
+<p align="center">
+   <img align="center" width="auto" src="https://github.com/user-attachments/assets/96f4e87d-05a1-4eae-b259-f01551415d7f">
+</p>
+
 # Running Ollama Locally: A Guide to the Powerful AI Model Tool
 
 In the realm of artificial intelligence, the ability to run and test models locally can greatly enhance both development and deployment workflows. Ollama is one such tool that allows you to run large language models on your local machine efficiently. This article will delve into what Ollama is, its features, and a step-by-step guide on setting it up on your system.
